@@ -1,10 +1,10 @@
 class Nosleep < Formula
   desc "Keep your Mac awake (even with the lid closed) — a friendly wrapper for pmset"
   homepage "https://github.com/tmad4000/nosleep"
-  url "https://github.com/tmad4000/nosleep/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "12cf1b97ea86b918f28b5407ae69d2811a5ce42585a66aa9d864ee6ec619fe2a"
+  url "https://github.com/tmad4000/nosleep/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "dbc4e9f83046f2830762af11a5c2e603f031e91d3a863018b3b275acf927dabb"
   license "MIT"
-  version "1.0.0"
+  version "1.0.1"
 
   depends_on :macos
 
