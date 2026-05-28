@@ -10,6 +10,7 @@ class Nosleep < Formula
 
   def install
     bin.install "nosleep.sh" => "nosleep"
+    bin.install_symlink "nosleep" => "nsl"
   end
 
   def caveats
